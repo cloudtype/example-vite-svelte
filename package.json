@@ -1,6 +1,6 @@
 {
-  "name": "example-vite-svelt",
-  "description": "example-vite-svelt",
+  "name": "example-vite-svelte",
+  "description": "example-vite-svelte",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
